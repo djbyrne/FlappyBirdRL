@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{E3EF6E53-88BE-20EB-65C7-C65330B49779}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FlappyAgent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/FlappyAcademy.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/PipeSpawner.cs" Line="40" Column="38" />
+      <File FileName="Assets/Scripts/FlappyAgent.cs" Line="91" Column="25" />
+      <File FileName="Assets/ML-Agents/Examples/GridWorld/Scripts/GridAgent.cs" Line="9" Column="5" />
+      <File FileName="Assets/Scripts/Score.cs" Line="21" Column="1" />
+      <File FileName="Assets/ScoreBoard.cs" Line="20" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyBird" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ML-Agents" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="3DBall" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="BananaCollectors" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="GridWorld" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="FlappyAgent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83e81798-c85e-4f06-96d2-6a1251ea1609" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,2 +1,2 @@
 # FlappyBirdRL
-A reinforcement learning environment based on the mobile game "Flappy Bird" built using the Unity ml-agents framework
+Reinforcement Learning environment for the game Flappy Bird using the Unity ML Agents library
