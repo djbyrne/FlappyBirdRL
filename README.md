@@ -1,6 +1,8 @@
 # FlappyBirdRL
 Reinforcement Learning environment for the game Flappy Bird using the Unity ML Agents library
 
+<img src="flappy_rl_demo.gif" height="500">
+
 ## Requirements
 - Unity version 2019.1.0f2
 - ml-agents 0.8.1
