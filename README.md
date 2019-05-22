@@ -20,5 +20,11 @@ Reinforcement Learning environment for the game Flappy Bird using the Unity ML A
  - height of the next bottom pipe
  - X distance to next pipe
  
+ ## Rewards
+ The goal is to avoid the pipes for as long as possible
+ - +0.1 for each timestep where the agent is alive
+ - +1.0 for each pipe passed successfully
+ - -1.0 for each collision and terminated
+ 
  ## Info
  The game runs at x20 normal speed in order to speed up training. 
